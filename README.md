@@ -8,7 +8,6 @@ Software Engineer
 
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at [hashanalamshaikh@gmail.com](mailto:hashanalamshaikh@gmail.com)
-* 🚀  I'm currently working on [Full Stack Projects with LLMs](http://github.com/Hashan-Shaikh/resume-generator)
 * 🧠  I'm learning Cloud and DevOps
 * 🤝  I'm open to collaborating on open Source projects
 
