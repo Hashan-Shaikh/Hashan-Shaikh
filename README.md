@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-🚀 Full-Stack Developer | Cloud & DevOps Enthusiast | AI & Deep Learning Explorer Hi, I'm Hashan Alam, a software engineer with a passion for building scalable applications and optimizing cloud infrastructure. 💻 Tech Stack: Frontend: React.js, Next.js, Tailwind CSS Backend: Node.js, Nest.js, Express.js Databases: PostgreSQL, MySQL, MongoDB Cloud & DevOps: AWS, Docker, Kubernetes, Terraform, Ansible 📌 What I Do: Design RESTful APIs and build robust backend architectures Develop dynamic and scalable web applications Implement CI/CD pipelines and automate deployments Explore deep learning & AI solutions 🔥 Fun Fact: I built a resume generator powered by AI, so yes, I let AI handle the boring stuff while I focus on coding!
+🚀 Full-Stack Developer | Cloud & DevOps Enthusiast | AI & Deep Learning Explorer Hi, I'm Hashan Alam, a software engineer with a passion for building scalable applications and optimizing cloud infrastructure. 💻 Tech Stack: Frontend: React.js, Next.js, Tailwind CSS Backend: Node.js, Nest.js, Express.js Databases: PostgreSQL, MySQL, MongoDB Cloud & DevOps: AWS, Docker, Kubernetes, Terraform, Ansible 📌 What I Do: Design RESTful APIs and build robust backend architectures Develop dynamic and scalable web applications Implement CI/CD pipelines and automate deployments Explore deep learning & AI solutions 🔥
 
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at [hashanalamshaikh@gmail.com](mailto:hashanalamshaikh@gmail.com)
